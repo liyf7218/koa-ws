@@ -1,0 +1,4 @@
+// product configuration
+export default {
+  
+};
